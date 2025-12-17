@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Al-Sabeel - Developer Roadmaps for the Modern Learner
+# 🌟 elsabeel.tech - Developer Roadmaps for the Modern Learner
 
 <img src="al-sabeel-logo.png" alt="Al-Sabeel Logo" width="350"/>
 
