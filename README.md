@@ -4,8 +4,8 @@
 
 <img src="al-sabeel-logo.png" alt="Al-Sabeel Logo" width="350"/>
 
-*"Seek knowledge from the cradle to the grave"*  
-— Prophetic Hadith
+*"Pursue knowledge from the cradle to the grave"*  
+— Islamic Wisdom
 
 </div>
 
@@ -34,7 +34,7 @@ This project was born from observing the challenges faced by programming newcome
 
 ## 🤝 Connect
 - GitHub: [@iarchtesla](https://github.com/iarchtesla)
-- LinkedIn: [iarchtesla](https://www.linkedin.com/in/iarchtesla) <!-- غير الرابط لو عندك واحد حقيقي -->
+- LinkedIn: [iarchtesla](https://www.linkedin.com/in/iarchtesla) 
 
 ---
 
